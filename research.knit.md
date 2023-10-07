@@ -1,0 +1,58 @@
+---
+title: "Research"
+format: html
+editor: visual
+---
+
+
+## Publications
+
+Abay, Kibrom A.; Ibrahim, Hosam; and Breisinger, Clemens, 2021. Food Policies and Obesity in Low and Middle Income Countries. World Development. https://doi.org/10.1016/j.worlddev.2021.105775.
+
+Kurdi, Sikandra; Figueroa, Jose Luis; and Ibrahim, Hosam. 2020. \"Nutritional Training in a Humanitarian Context: Evidence from a Cluster-Randomized Trial.\" Maternal and Child Nutrition. e12973. https://doi.org/10.1111/mcn.12973.
+
+Abay, Kibrom A.; Ibrahim, Hosam; and Breisinger, Clemens. 2020. Food Policies and Obesity in Low and Middle Income Countries. MENA Working Paper, 28. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/p15738coll2.133679
+
+Abay, Kibrom A.; and Ibrahim, Hosam. 2020. Winners and losers from COVID-19: Evidence from Google search data for Egypt. MENA Policy Note, 8. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/p15738coll2.133776
+
+Abay, Kibrom A.; Ibrahim, Hosam; Breisinger, Clemens; and Bayasgalanbat, Nomindelger. 2020. Food Policies and their Implications on Overweight and Obesity Trends in Selected Countries in the Near East and North Africa Region. MENA Working Paper, 30. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.4060/cb2338en
+
+Ibrahim, Hosam. 2019. \"Political Violence and Youth Bulges.\" ERF Working Paper Series No. 1310. http://erf.org.eg/publications/political-violence-and-youth-bulges/.
+
+Kurdi, Sikandra; Breisinger, Clemens; Ibrahim, Hosam; Ghorpade, Yashodhan; and Al-Ahmadi, Afrah. 2019. Responding to conflict: Does \"Cash Plus\" work for preventing malnutrition?: New evidence from an impact evaluation of Yemen\'s Cash for Nutrition Program. IFPRI Policy Brief. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/9780896293601
+
+Kurdi, Sikandra; Ghorpade, Yashodhan; and Ibrahim, Hosam. 2019. The cash for nutrition intervention in Yemen: Impact evaluation study. MENA RP Working Paper 19. Washington, DC and Cairo, Egypt: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/p15738coll2.133219
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+
+::: {.cell}
+
+```{.r .cell-code}
+1 + 1
+```
+
+::: {.cell-output .cell-output-stdout}
+```
+[1] 2
+```
+:::
+:::
+
+
+You can add options to executable code like this
+
+
+::: {.cell}
+::: {.cell-output .cell-output-stdout}
+```
+[1] 4
+```
+:::
+:::
+
+
+The `echo: false` option disables the printing of code (only output is displayed).
+

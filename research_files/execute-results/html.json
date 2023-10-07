@@ -1,0 +1,16 @@
+{
+  "hash": "2d1f1852ee3709e255b259672d30902e",
+  "result": {
+    "markdown": "---\ntitle: \"Research\"\nformat: html\neditor: visual\n---\n\n\n## Publications\n\nAbay, Kibrom A.; Ibrahim, Hosam; and Breisinger, Clemens, 2021. Food Policies and Obesity in Low and Middle Income Countries. World Development. https://doi.org/10.1016/j.worlddev.2021.105775.\n\nKurdi, Sikandra; Figueroa, Jose Luis; and Ibrahim, Hosam. 2020. \\\"Nutritional Training in a Humanitarian Context: Evidence from a Cluster-Randomized Trial.\\\" Maternal and Child Nutrition. e12973. https://doi.org/10.1111/mcn.12973.\n\nAbay, Kibrom A.; Ibrahim, Hosam; and Breisinger, Clemens. 2020. Food Policies and Obesity in Low and Middle Income Countries. MENA Working Paper, 28. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/p15738coll2.133679\n\nAbay, Kibrom A.; and Ibrahim, Hosam. 2020. Winners and losers from COVID-19: Evidence from Google search data for Egypt. MENA Policy Note, 8. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/p15738coll2.133776\n\nAbay, Kibrom A.; Ibrahim, Hosam; Breisinger, Clemens; and Bayasgalanbat, Nomindelger. 2020. Food Policies and their Implications on Overweight and Obesity Trends in Selected Countries in the Near East and North Africa Region. MENA Working Paper, 30. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.4060/cb2338en\n\nIbrahim, Hosam. 2019. \\\"Political Violence and Youth Bulges.\\\" ERF Working Paper Series No. 1310. http://erf.org.eg/publications/political-violence-and-youth-bulges/.\n\nKurdi, Sikandra; Breisinger, Clemens; Ibrahim, Hosam; Ghorpade, Yashodhan; and Al-Ahmadi, Afrah. 2019. Responding to conflict: Does \\\"Cash Plus\\\" work for preventing malnutrition?: New evidence from an impact evaluation of Yemen\\'s Cash for Nutrition Program. IFPRI Policy Brief. Washington, DC: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/9780896293601\n\nKurdi, Sikandra; Ghorpade, Yashodhan; and Ibrahim, Hosam. 2019. The cash for nutrition intervention in Yemen: Impact evaluation study. MENA RP Working Paper 19. Washington, DC and Cairo, Egypt: International Food Policy Research Institute (IFPRI). https://doi.org/10.2499/p15738coll2.133219\n\n## Running Code\n\nWhen you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nYou can add options to executable code like this\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n\n\nThe `echo: false` option disables the printing of code (only output is displayed).\n",
+    "supporting": [
+      "research_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
